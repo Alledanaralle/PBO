@@ -1,0 +1,9 @@
+# C# build files
+bin/
+obj/
+.vs/
+*.suo
+*.user
+
+# Database file (kalo pake SQLite)
+*.db

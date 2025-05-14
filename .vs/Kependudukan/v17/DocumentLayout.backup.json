@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\latihan1_pbo\\Kependudukan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{025A9EC4-EC20-4C2A-AC87-7A8552063C4B}|Kependudukan\\Kependudukan.csproj|d:\\latihan1_pbo\\kependudukan\\kependudukan\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{025A9EC4-EC20-4C2A-AC87-7A8552063C4B}|Kependudukan\\Kependudukan.csproj|solutionrelative:kependudukan\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025A9EC4-EC20-4C2A-AC87-7A8552063C4B}|Kependudukan\\Kependudukan.csproj|d:\\latihan1_pbo\\kependudukan\\kependudukan\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{025A9EC4-EC20-4C2A-AC87-7A8552063C4B}|Kependudukan\\Kependudukan.csproj|solutionrelative:kependudukan\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "D:\\latihan1_pbo\\Kependudukan\\Kependudukan\\.gitignore",
+              "RelativeDocumentMoniker": "Kependudukan\\.gitignore",
+              "ToolTip": "D:\\latihan1_pbo\\Kependudukan\\Kependudukan\\.gitignore",
+              "RelativeToolTip": "Kependudukan\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-05-14T02:41:56.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\latihan1_pbo\\Kependudukan\\Kependudukan\\Form1.cs",
+              "RelativeDocumentMoniker": "Kependudukan\\Form1.cs",
+              "ToolTip": "D:\\latihan1_pbo\\Kependudukan\\Kependudukan\\Form1.cs [Design]",
+              "RelativeToolTip": "Kependudukan\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T02:05:12.998Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
