@@ -38,6 +38,7 @@
             this.btnKecamatan = new System.Windows.Forms.Button();
             this.btnKabupaten = new System.Windows.Forms.Button();
             this.btnAnggota = new System.Windows.Forms.Button();
+            this.btnKK = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridViewPenduduk)).BeginInit();
             this.SuspendLayout();
             // 
@@ -148,9 +149,21 @@
             this.btnAnggota.UseVisualStyleBackColor = true;
             this.btnAnggota.Click += new System.EventHandler(this.btnAnggota_Click);
             // 
+            // btnKK
+            // 
+            this.btnKK.Font = new System.Drawing.Font("Poppins", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnKK.Location = new System.Drawing.Point(437, 356);
+            this.btnKK.Name = "btnKK";
+            this.btnKK.Size = new System.Drawing.Size(121, 28);
+            this.btnKK.TabIndex = 10;
+            this.btnKK.Text = "Kartu Keluarga";
+            this.btnKK.UseVisualStyleBackColor = true;
+            this.btnKK.Click += new System.EventHandler(this.btnKK_Click);
+            // 
             // DataPenduduk
             // 
             this.ClientSize = new System.Drawing.Size(571, 423);
+            this.Controls.Add(this.btnKK);
             this.Controls.Add(this.btnAnggota);
             this.Controls.Add(this.btnKabupaten);
             this.Controls.Add(this.btnKecamatan);
@@ -184,6 +197,7 @@
         private System.Windows.Forms.Button btnKecamatan;
         private System.Windows.Forms.Button btnKabupaten;
         private System.Windows.Forms.Button btnAnggota;
+        private System.Windows.Forms.Button btnKK;
     }
 }
 

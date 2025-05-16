@@ -97,6 +97,7 @@
   <ItemGroup>
     <Compile Include="Class\AnggotaKeluarga_cls.cs" />
     <Compile Include="Class\Kabupaten_cls.cs" />
+    <Compile Include="Class\KartuKeluarga_cls.cs" />
     <Compile Include="Class\Kecamatan_cls.cs" />
     <Compile Include="Class\Kelurahan_class.cs" />
     <Compile Include="Class\Login_cls.cs" />
@@ -130,6 +131,12 @@
     </Compile>
     <Compile Include="FormTambahPenduduk.Designer.cs">
       <DependentUpon>FormTambahPenduduk.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FromKK.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FromKK.Designer.cs">
+      <DependentUpon>FromKK.cs</DependentUpon>
     </Compile>
     <Compile Include="Kabupaten.cs">
       <SubType>Form</SubType>
@@ -171,6 +178,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="FormTambahPenduduk.resx">
       <DependentUpon>FormTambahPenduduk.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FromKK.resx">
+      <DependentUpon>FromKK.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Kabupaten.resx">
       <DependentUpon>Kabupaten.cs</DependentUpon>

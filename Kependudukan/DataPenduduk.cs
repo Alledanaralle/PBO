@@ -125,5 +125,11 @@ namespace Kependudukan
             FormAnggotaK formAnggota = new FormAnggotaK();
             formAnggota.Show();
         }
+
+        private void btnKK_Click(object sender, EventArgs e)
+        {
+            FromKK formKK = new FromKK();
+            formKK.Show();
+        }
     }
 }

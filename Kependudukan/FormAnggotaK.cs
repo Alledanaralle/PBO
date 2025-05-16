@@ -296,12 +296,12 @@ namespace Kependudukan
                 }
                 else
                 {
-                    MessageBox.Show("Hapus dibatalkan, tenang aja! 😽");
+                    MessageBox.Show("Hapus dibatalkan!");
                 }
             }
             catch (Exception ex)
             {
-                MessageBox.Show($"Oops, gagal hapus data: {ex.Message} 😿", "Error",
+                MessageBox.Show($"Oops, gagal hapus data: {ex.Message}", "Error",
                     MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
