@@ -51,6 +51,10 @@
             this.cbAgama = new System.Windows.Forms.ComboBox();
             this.btnSimpan = new System.Windows.Forms.Button();
             this.btnClose = new System.Windows.Forms.Button();
+            this.label11 = new System.Windows.Forms.Label();
+            this.cbIdKecamatan = new System.Windows.Forms.ComboBox();
+            this.label12 = new System.Windows.Forms.Label();
+            this.cbIdKabupaten = new System.Windows.Forms.ComboBox();
             this.SuspendLayout();
             // 
             // label1
@@ -179,9 +183,9 @@
             this.label7.Font = new System.Drawing.Font("Poppins", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label7.Location = new System.Drawing.Point(16, 344);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(85, 22);
+            this.label7.Size = new System.Drawing.Size(71, 22);
             this.label7.TabIndex = 13;
-            this.label7.Text = "Id Kelurahan";
+            this.label7.Text = "Kelurahan";
             // 
             // cbIdKelurahan
             // 
@@ -248,7 +252,7 @@
             // btnSimpan
             // 
             this.btnSimpan.Font = new System.Drawing.Font("Poppins", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnSimpan.Location = new System.Drawing.Point(19, 556);
+            this.btnSimpan.Location = new System.Drawing.Point(19, 659);
             this.btnSimpan.Name = "btnSimpan";
             this.btnSimpan.Size = new System.Drawing.Size(139, 35);
             this.btnSimpan.TabIndex = 21;
@@ -259,7 +263,7 @@
             // btnClose
             // 
             this.btnClose.Font = new System.Drawing.Font("Poppins", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnClose.Location = new System.Drawing.Point(164, 556);
+            this.btnClose.Location = new System.Drawing.Point(164, 659);
             this.btnClose.Name = "btnClose";
             this.btnClose.Size = new System.Drawing.Size(59, 35);
             this.btnClose.TabIndex = 22;
@@ -267,11 +271,51 @@
             this.btnClose.UseVisualStyleBackColor = true;
             this.btnClose.Click += new System.EventHandler(this.btnClose_Click);
             // 
+            // label11
+            // 
+            this.label11.AutoSize = true;
+            this.label11.Font = new System.Drawing.Font("Poppins", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label11.Location = new System.Drawing.Point(16, 544);
+            this.label11.Name = "label11";
+            this.label11.Size = new System.Drawing.Size(79, 22);
+            this.label11.TabIndex = 23;
+            this.label11.Text = "Kecamatan";
+            // 
+            // cbIdKecamatan
+            // 
+            this.cbIdKecamatan.FormattingEnabled = true;
+            this.cbIdKecamatan.Location = new System.Drawing.Point(19, 569);
+            this.cbIdKecamatan.Name = "cbIdKecamatan";
+            this.cbIdKecamatan.Size = new System.Drawing.Size(199, 21);
+            this.cbIdKecamatan.TabIndex = 24;
+            // 
+            // label12
+            // 
+            this.label12.AutoSize = true;
+            this.label12.Font = new System.Drawing.Font("Poppins", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label12.Location = new System.Drawing.Point(16, 593);
+            this.label12.Name = "label12";
+            this.label12.Size = new System.Drawing.Size(76, 22);
+            this.label12.TabIndex = 25;
+            this.label12.Text = "Kabupaten";
+            // 
+            // cbIdKabupaten
+            // 
+            this.cbIdKabupaten.FormattingEnabled = true;
+            this.cbIdKabupaten.Location = new System.Drawing.Point(19, 618);
+            this.cbIdKabupaten.Name = "cbIdKabupaten";
+            this.cbIdKabupaten.Size = new System.Drawing.Size(199, 21);
+            this.cbIdKabupaten.TabIndex = 26;
+            // 
             // FormEditPenduduk
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(406, 603);
+            this.ClientSize = new System.Drawing.Size(406, 706);
+            this.Controls.Add(this.cbIdKabupaten);
+            this.Controls.Add(this.label12);
+            this.Controls.Add(this.cbIdKecamatan);
+            this.Controls.Add(this.label11);
             this.Controls.Add(this.btnClose);
             this.Controls.Add(this.btnSimpan);
             this.Controls.Add(this.cbAgama);
@@ -328,5 +372,9 @@
         private System.Windows.Forms.ComboBox cbAgama;
         private System.Windows.Forms.Button btnSimpan;
         private System.Windows.Forms.Button btnClose;
+        private System.Windows.Forms.Label label11;
+        private System.Windows.Forms.ComboBox cbIdKecamatan;
+        private System.Windows.Forms.Label label12;
+        private System.Windows.Forms.ComboBox cbIdKabupaten;
     }
 }

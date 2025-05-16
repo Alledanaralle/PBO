@@ -50,6 +50,48 @@ namespace Kependudukan
             {
                 MessageBox.Show($"Oops, gagal load kelurahan: {ex.Message} :(", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
+
+            try
+            {
+                db.OpenConnection();
+                string query = "SELECT IdKecamatan, NamaKecamatan FROM kecamatan";
+                MySqlCommand cmd = new MySqlCommand(query, db.GetConnection());
+                MySqlDataReader reader = cmd.ExecuteReader();
+                while (reader.Read())
+                {
+                    cbIdKecamatan.Items.Add(new { Id = reader["IdKecamatan"], Name = reader["NamaKecamatan"] });
+                }
+                reader.Close();
+                db.CloseConnection();
+                cbIdKecamatan.DisplayMember = "Name";
+                cbIdKecamatan.ValueMember = "Id";
+                cbIdKecamatan.SelectedIndex = 0;
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show($"Oops, gagal load kecamatan: {ex.Message} :(", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+
+            try
+            {
+                db.OpenConnection();
+                string query = "SELECT IdKabupaten, NamaKabupaten FROM kabupaten";
+                MySqlCommand cmd = new MySqlCommand(query, db.GetConnection());
+                MySqlDataReader reader = cmd.ExecuteReader();
+                while (reader.Read())
+                {
+                    cbIdKabupaten.Items.Add(new { Id = reader["IdKabupaten"], Name = reader["NamaKabupaten"] });
+                }
+                reader.Close();
+                db.CloseConnection();
+                cbIdKabupaten.DisplayMember = "Name";
+                cbIdKabupaten.ValueMember = "Id";
+                cbIdKabupaten.SelectedIndex = 0;
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show($"Oops, gagal load kabupaten: {ex.Message} :(", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
         }
 
         private void DisableEditFields()
@@ -62,6 +104,8 @@ namespace Kependudukan
             txtPekerjaan.Enabled = false;
             cbStatusPerkawinan.Enabled = false;
             cbAgama.Enabled = false;
+            cbIdKabupaten.Enabled = false;
+            cbIdKecamatan.Enabled = false;
             btnSimpan.Enabled = false;
         }
 
@@ -74,6 +118,8 @@ namespace Kependudukan
             txtPekerjaan.Enabled = true;
             cbStatusPerkawinan.Enabled = true;
             cbAgama.Enabled = true;
+            cbIdKabupaten.Enabled = true;
+            cbIdKecamatan.Enabled = true;
             btnSimpan.Enabled = true;
         }
 
@@ -89,7 +135,7 @@ namespace Kependudukan
             try
             {
                 db.OpenConnection();
-                string query = "SELECT NIK, Nama, TanggalLahir, JenisKelamin, IdKelurahan, pekerjaan, status, agama " +
+                string query = "SELECT NIK, Nama, TanggalLahir, JenisKelamin, IdKelurahan, pekerjaan, status, agama, IdKecamatan, IdKabupaten " +
                                "FROM Penduduk WHERE NIK = @Input OR Nama = @Input";
                 MySqlCommand cmd = new MySqlCommand(query, db.GetConnection());
                 cmd.Parameters.AddWithValue("@Input", input);
@@ -105,6 +151,8 @@ namespace Kependudukan
                     txtPekerjaan.Text = reader["pekerjaan"].ToString();
                     cbStatusPerkawinan.SelectedItem = reader["status"].ToString();
                     cbAgama.SelectedItem = reader["agama"].ToString();
+                    cbIdKabupaten.SelectedValue = reader["IdKabupaten"];
+                    cbIdKecamatan.SelectedValue = reader["IdKecamatan"];
                     labelInfo.Text = "Data ditemukan, silakan edit! >_<";
                     EnableEditFields();
                 }
@@ -133,6 +181,8 @@ namespace Kependudukan
             txtPekerjaan.Text = "";
             cbStatusPerkawinan.SelectedIndex = 0;
             cbAgama.SelectedIndex = 0;
+            cbIdKabupaten.SelectedIndex = 0;
+            cbIdKecamatan.SelectedIndex = 0;
         }
 
         private void btnSimpan_Click(object sender, EventArgs e)
@@ -154,7 +204,7 @@ namespace Kependudukan
             {
                 db.OpenConnection();
                 string query = "UPDATE Penduduk SET Nama = @Nama, TanggalLahir = @TanggalLahir, JenisKelamin = @JenisKelamin, " +
-                               "IdKelurahan = @IdKelurahan, pekerjaan = @Pekerjaan, status = @StatusPerkawinan, agama = @Agama " +
+                               "IdKelurahan = @IdKelurahan, pekerjaan = @Pekerjaan, status = @StatusPerkawinan, agama = @Agama, IdKecamatan = @IdKecamatan, IdKabupaten = @IdKabupaten " +
                                "WHERE NIK = @NIK";
                 MySqlCommand cmd = new MySqlCommand(query, db.GetConnection());
                 cmd.Parameters.AddWithValue("@NIK", nik);
@@ -165,6 +215,8 @@ namespace Kependudukan
                 cmd.Parameters.AddWithValue("@Pekerjaan", txtPekerjaan.Text);
                 cmd.Parameters.AddWithValue("@StatusPerkawinan", cbStatusPerkawinan.SelectedItem.ToString());
                 cmd.Parameters.AddWithValue("@Agama", cbAgama.SelectedItem.ToString());
+                cmd.Parameters.AddWithValue("@IdKecamatan", (cbIdKecamatan.SelectedItem as dynamic).Id);
+                cmd.Parameters.AddWithValue("@IdKabupaten", (cbIdKabupaten.SelectedItem as dynamic).Id);
                 int rowsAffected = cmd.ExecuteNonQuery();
                 db.CloseConnection();
 
@@ -187,7 +239,11 @@ namespace Kependudukan
 
         private void btnClose_Click(object sender, EventArgs e)
         {
-            this.Close();
+            DialogResult result = MessageBox.Show("Yakin mau keluar?", "Konfirmasi Keluar", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+            if (result == DialogResult.Yes)
+            {
+                this.Close();
+            }
         }
     }
 }

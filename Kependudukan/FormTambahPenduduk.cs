@@ -51,6 +51,48 @@ namespace Kependudukan
             {
                 MessageBox.Show($"Oops, gagal load kelurahan: {ex.Message} :(", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
+
+            try
+            {
+                db.OpenConnection();
+                string query = "SELECT IdKecamatan, NamaKecamatan FROM kecamatan";
+                MySqlCommand cmd = new MySqlCommand(query, db.GetConnection());
+                MySqlDataReader reader = cmd.ExecuteReader();
+                while (reader.Read())
+                {
+                    cbIdKecamatan.Items.Add(new { Id = reader["IdKecamatan"], Name = reader["NamaKecamatan"] });
+                }
+                reader.Close();
+                db.CloseConnection();
+                cbIdKecamatan.DisplayMember = "Name";
+                cbIdKecamatan.ValueMember = "Id";
+                cbIdKecamatan.SelectedIndex = 0;
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show($"Oops, gagal load kecamatan: {ex.Message} :(", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+
+            try
+            {
+                db.OpenConnection();
+                string query = "SELECT IdKabupaten, NamaKabupaten FROM kabupaten";
+                MySqlCommand cmd = new MySqlCommand(query, db.GetConnection());
+                MySqlDataReader reader = cmd.ExecuteReader();
+                while (reader.Read())
+                {
+                    cbIdKabupaten.Items.Add(new { Id = reader["IdKabupaten"], Name = reader["NamaKabupaten"] });
+                }
+                reader.Close();
+                db.CloseConnection();
+                cbIdKabupaten.DisplayMember = "Name";
+                cbIdKabupaten.ValueMember = "Id";
+                cbIdKabupaten.SelectedIndex = 0;
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show($"Oops, gagal load kabupaten: {ex.Message} :(", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
         }
 
         private void btnSimpan_Click(object sender, EventArgs e)
@@ -75,8 +117,8 @@ namespace Kependudukan
             try
             {
                 db.OpenConnection();
-                string query = "INSERT INTO Penduduk (NIK, Nama, TanggalLahir, JenisKelamin, IdKelurahan, pekerjaan, status, agama) " +
-                              "VALUES (@NIK, @Nama, @TanggalLahir, @JenisKelamin, @IdKelurahan, @pekerjaan, @status, @agama)";
+                string query = "INSERT INTO Penduduk (NIK, Nama, TanggalLahir, JenisKelamin, IdKelurahan, pekerjaan, status, agama, IdKecamatan, IdKabupaten) " +
+                              "VALUES (@NIK, @Nama, @TanggalLahir, @JenisKelamin, @IdKelurahan, @pekerjaan, @status, @agama, @IdKecamatan, @IdKabupaten)";
                 MySqlCommand cmd = new MySqlCommand(query, db.GetConnection());
                 cmd.Parameters.AddWithValue("@NIK", txtNIK.Text);
                 cmd.Parameters.AddWithValue("@Nama", txtNama.Text);
@@ -86,6 +128,8 @@ namespace Kependudukan
                 cmd.Parameters.AddWithValue("@pekerjaan", txtPekerjaan.Text);
                 cmd.Parameters.AddWithValue("@status", cbStatusPerkawinan.SelectedItem.ToString());
                 cmd.Parameters.AddWithValue("@agama", txtAgama.SelectedItem.ToString());
+                cmd.Parameters.AddWithValue("@IdKecamatan", (cbIdKecamatan.SelectedItem as dynamic).Id);
+                cmd.Parameters.AddWithValue("@IdKabupaten", (cbIdKabupaten.SelectedItem as dynamic).Id);
                 cmd.ExecuteNonQuery();
                 db.CloseConnection();
                 MessageBox.Show("Data penduduk tersimpan, yay! >_<", "Success", MessageBoxButtons.OK, MessageBoxIcon.Information);

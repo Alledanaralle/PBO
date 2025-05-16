@@ -49,6 +49,10 @@ namespace Kependudukan
             this.cbIdKelurahan = new System.Windows.Forms.ComboBox();
             this.btnSimpan = new System.Windows.Forms.Button();
             this.btnClose = new System.Windows.Forms.Button();
+            this.label10 = new System.Windows.Forms.Label();
+            this.cbIdKecamatan = new System.Windows.Forms.ComboBox();
+            this.label11 = new System.Windows.Forms.Label();
+            this.cbIdKabupaten = new System.Windows.Forms.ComboBox();
             this.SuspendLayout();
             // 
             // label1
@@ -193,9 +197,9 @@ namespace Kependudukan
             this.label9.Font = new System.Drawing.Font("Poppins", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label9.Location = new System.Drawing.Point(25, 430);
             this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(91, 23);
+            this.label9.Size = new System.Drawing.Size(76, 23);
             this.label9.TabIndex = 16;
-            this.label9.Text = "Id Kelurahan";
+            this.label9.Text = "Kelurahan";
             // 
             // cbIdKelurahan
             // 
@@ -208,7 +212,7 @@ namespace Kependudukan
             // btnSimpan
             // 
             this.btnSimpan.Font = new System.Drawing.Font("Poppins", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnSimpan.Location = new System.Drawing.Point(29, 494);
+            this.btnSimpan.Location = new System.Drawing.Point(29, 599);
             this.btnSimpan.Name = "btnSimpan";
             this.btnSimpan.Size = new System.Drawing.Size(104, 32);
             this.btnSimpan.TabIndex = 18;
@@ -219,7 +223,7 @@ namespace Kependudukan
             // btnClose
             // 
             this.btnClose.Font = new System.Drawing.Font("Poppins", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnClose.Location = new System.Drawing.Point(139, 494);
+            this.btnClose.Location = new System.Drawing.Point(139, 599);
             this.btnClose.Name = "btnClose";
             this.btnClose.Size = new System.Drawing.Size(104, 32);
             this.btnClose.TabIndex = 19;
@@ -227,11 +231,51 @@ namespace Kependudukan
             this.btnClose.UseVisualStyleBackColor = true;
             this.btnClose.Click += new System.EventHandler(this.btnClose_Click);
             // 
+            // label10
+            // 
+            this.label10.AutoSize = true;
+            this.label10.Font = new System.Drawing.Font("Poppins", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label10.Location = new System.Drawing.Point(25, 480);
+            this.label10.Name = "label10";
+            this.label10.Size = new System.Drawing.Size(87, 23);
+            this.label10.TabIndex = 20;
+            this.label10.Text = "Kecamatan";
+            // 
+            // cbIdKecamatan
+            // 
+            this.cbIdKecamatan.FormattingEnabled = true;
+            this.cbIdKecamatan.Location = new System.Drawing.Point(29, 506);
+            this.cbIdKecamatan.Name = "cbIdKecamatan";
+            this.cbIdKecamatan.Size = new System.Drawing.Size(200, 21);
+            this.cbIdKecamatan.TabIndex = 21;
+            // 
+            // label11
+            // 
+            this.label11.AutoSize = true;
+            this.label11.Font = new System.Drawing.Font("Poppins", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label11.Location = new System.Drawing.Point(25, 530);
+            this.label11.Name = "label11";
+            this.label11.Size = new System.Drawing.Size(83, 23);
+            this.label11.TabIndex = 22;
+            this.label11.Text = "Kabupaten";
+            // 
+            // cbIdKabupaten
+            // 
+            this.cbIdKabupaten.FormattingEnabled = true;
+            this.cbIdKabupaten.Location = new System.Drawing.Point(29, 556);
+            this.cbIdKabupaten.Name = "cbIdKabupaten";
+            this.cbIdKabupaten.Size = new System.Drawing.Size(200, 21);
+            this.cbIdKabupaten.TabIndex = 23;
+            // 
             // FormTambahPenduduk
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(371, 556);
+            this.ClientSize = new System.Drawing.Size(371, 643);
+            this.Controls.Add(this.cbIdKabupaten);
+            this.Controls.Add(this.label11);
+            this.Controls.Add(this.cbIdKecamatan);
+            this.Controls.Add(this.label10);
             this.Controls.Add(this.btnClose);
             this.Controls.Add(this.btnSimpan);
             this.Controls.Add(this.cbIdKelurahan);
@@ -254,7 +298,6 @@ namespace Kependudukan
             this.Name = "FormTambahPenduduk";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Form Tambah Penduduk";
-        
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -283,5 +326,9 @@ namespace Kependudukan
         private System.Windows.Forms.ComboBox cbIdKelurahan;
         private System.Windows.Forms.Button btnSimpan;
         private System.Windows.Forms.Button btnClose;
+        private System.Windows.Forms.Label label10;
+        private System.Windows.Forms.ComboBox cbIdKecamatan;
+        private System.Windows.Forms.Label label11;
+        private System.Windows.Forms.ComboBox cbIdKabupaten;
     }
 }

@@ -16,7 +16,7 @@ namespace Kependudukan
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new DataPenduduk());
+            Application.Run(new Login_frm());
         }
     }
 }

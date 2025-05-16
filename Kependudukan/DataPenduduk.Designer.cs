@@ -33,6 +33,11 @@
             this.button1 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
             this.btnUbahData = new System.Windows.Forms.Button();
+            this.btnLogout = new System.Windows.Forms.Button();
+            this.btnKelurahan = new System.Windows.Forms.Button();
+            this.btnKecamatan = new System.Windows.Forms.Button();
+            this.btnKabupaten = new System.Windows.Forms.Button();
+            this.btnAnggota = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridViewPenduduk)).BeginInit();
             this.SuspendLayout();
             // 
@@ -88,9 +93,69 @@
             this.btnUbahData.UseVisualStyleBackColor = true;
             this.btnUbahData.Click += new System.EventHandler(this.btnUbahData_Click);
             // 
+            // btnLogout
+            // 
+            this.btnLogout.Font = new System.Drawing.Font("Poppins", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnLogout.Location = new System.Drawing.Point(483, 12);
+            this.btnLogout.Name = "btnLogout";
+            this.btnLogout.Size = new System.Drawing.Size(75, 28);
+            this.btnLogout.TabIndex = 5;
+            this.btnLogout.Text = "Logout";
+            this.btnLogout.UseVisualStyleBackColor = true;
+            this.btnLogout.Click += new System.EventHandler(this.btnLogout_Click);
+            // 
+            // btnKelurahan
+            // 
+            this.btnKelurahan.Font = new System.Drawing.Font("Poppins", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnKelurahan.Location = new System.Drawing.Point(12, 356);
+            this.btnKelurahan.Name = "btnKelurahan";
+            this.btnKelurahan.Size = new System.Drawing.Size(80, 28);
+            this.btnKelurahan.TabIndex = 6;
+            this.btnKelurahan.Text = "Kelurahan";
+            this.btnKelurahan.UseVisualStyleBackColor = true;
+            this.btnKelurahan.Click += new System.EventHandler(this.btnKelurahan_Click);
+            // 
+            // btnKecamatan
+            // 
+            this.btnKecamatan.Font = new System.Drawing.Font("Poppins", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnKecamatan.Location = new System.Drawing.Point(98, 356);
+            this.btnKecamatan.Name = "btnKecamatan";
+            this.btnKecamatan.Size = new System.Drawing.Size(92, 28);
+            this.btnKecamatan.TabIndex = 7;
+            this.btnKecamatan.Text = "Kecamatan";
+            this.btnKecamatan.UseVisualStyleBackColor = true;
+            this.btnKecamatan.Click += new System.EventHandler(this.btnKecamatan_Click);
+            // 
+            // btnKabupaten
+            // 
+            this.btnKabupaten.Font = new System.Drawing.Font("Poppins", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnKabupaten.Location = new System.Drawing.Point(196, 356);
+            this.btnKabupaten.Name = "btnKabupaten";
+            this.btnKabupaten.Size = new System.Drawing.Size(92, 28);
+            this.btnKabupaten.TabIndex = 8;
+            this.btnKabupaten.Text = "Kabupaten";
+            this.btnKabupaten.UseVisualStyleBackColor = true;
+            this.btnKabupaten.Click += new System.EventHandler(this.btnKabupaten_Click);
+            // 
+            // btnAnggota
+            // 
+            this.btnAnggota.Font = new System.Drawing.Font("Poppins", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnAnggota.Location = new System.Drawing.Point(294, 356);
+            this.btnAnggota.Name = "btnAnggota";
+            this.btnAnggota.Size = new System.Drawing.Size(137, 28);
+            this.btnAnggota.TabIndex = 9;
+            this.btnAnggota.Text = "Anggota Keluarga";
+            this.btnAnggota.UseVisualStyleBackColor = true;
+            this.btnAnggota.Click += new System.EventHandler(this.btnAnggota_Click);
+            // 
             // DataPenduduk
             // 
-            this.ClientSize = new System.Drawing.Size(571, 350);
+            this.ClientSize = new System.Drawing.Size(571, 423);
+            this.Controls.Add(this.btnAnggota);
+            this.Controls.Add(this.btnKabupaten);
+            this.Controls.Add(this.btnKecamatan);
+            this.Controls.Add(this.btnKelurahan);
+            this.Controls.Add(this.btnLogout);
             this.Controls.Add(this.btnUbahData);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
@@ -98,6 +163,7 @@
             this.Controls.Add(this.dataGridViewPenduduk);
             this.Name = "DataPenduduk";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Text = "Data Penduduk";
             this.Load += new System.EventHandler(this.DataPenduduk_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridViewPenduduk)).EndInit();
             this.ResumeLayout(false);
@@ -113,6 +179,11 @@
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.Button btnUbahData;
+        private System.Windows.Forms.Button btnLogout;
+        private System.Windows.Forms.Button btnKelurahan;
+        private System.Windows.Forms.Button btnKecamatan;
+        private System.Windows.Forms.Button btnKabupaten;
+        private System.Windows.Forms.Button btnAnggota;
     }
 }
 

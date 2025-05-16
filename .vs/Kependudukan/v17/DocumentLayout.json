@@ -3,20 +3,32 @@
   "WorkspaceRootPath": "D:\\latihan1_pbo\\Kependudukan\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{025A9EC4-EC20-4C2A-AC87-7A8552063C4B}|Kependudukan\\Kependudukan.csproj|D:\\latihan1_pbo\\Kependudukan\\kependudukan\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{025A9EC4-EC20-4C2A-AC87-7A8552063C4B}|Kependudukan\\Kependudukan.csproj|solutionrelative:kependudukan\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{025A9EC4-EC20-4C2A-AC87-7A8552063C4B}|Kependudukan\\Kependudukan.csproj|d:\\latihan1_pbo\\kependudukan\\kependudukan\\formanggotak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{025A9EC4-EC20-4C2A-AC87-7A8552063C4B}|Kependudukan\\Kependudukan.csproj|solutionrelative:kependudukan\\formanggotak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{025A9EC4-EC20-4C2A-AC87-7A8552063C4B}|Kependudukan\\Kependudukan.csproj|d:\\latihan1_pbo\\kependudukan\\kependudukan\\formeditpenduduk.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{025A9EC4-EC20-4C2A-AC87-7A8552063C4B}|Kependudukan\\Kependudukan.csproj|solutionrelative:kependudukan\\formeditpenduduk.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{025A9EC4-EC20-4C2A-AC87-7A8552063C4B}|Kependudukan\\Kependudukan.csproj|d:\\latihan1_pbo\\kependudukan\\kependudukan\\formanggotak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{025A9EC4-EC20-4C2A-AC87-7A8552063C4B}|Kependudukan\\Kependudukan.csproj|solutionrelative:kependudukan\\formanggotak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{025A9EC4-EC20-4C2A-AC87-7A8552063C4B}|Kependudukan\\Kependudukan.csproj|d:\\latihan1_pbo\\kependudukan\\kependudukan\\formeditpenduduk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{025A9EC4-EC20-4C2A-AC87-7A8552063C4B}|Kependudukan\\Kependudukan.csproj|solutionrelative:kependudukan\\formeditpenduduk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{025A9EC4-EC20-4C2A-AC87-7A8552063C4B}|Kependudukan\\Kependudukan.csproj|d:\\latihan1_pbo\\kependudukan\\kependudukan\\kabupaten.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{025A9EC4-EC20-4C2A-AC87-7A8552063C4B}|Kependudukan\\Kependudukan.csproj|solutionrelative:kependudukan\\kabupaten.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{025A9EC4-EC20-4C2A-AC87-7A8552063C4B}|Kependudukan\\Kependudukan.csproj|d:\\latihan1_pbo\\kependudukan\\kependudukan\\formeditpenduduk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{025A9EC4-EC20-4C2A-AC87-7A8552063C4B}|Kependudukan\\Kependudukan.csproj|solutionrelative:kependudukan\\formeditpenduduk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{025A9EC4-EC20-4C2A-AC87-7A8552063C4B}|Kependudukan\\Kependudukan.csproj|d:\\latihan1_pbo\\kependudukan\\kependudukan\\kabupaten.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{025A9EC4-EC20-4C2A-AC87-7A8552063C4B}|Kependudukan\\Kependudukan.csproj|solutionrelative:kependudukan\\kabupaten.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025A9EC4-EC20-4C2A-AC87-7A8552063C4B}|Kependudukan\\Kependudukan.csproj|D:\\latihan1_pbo\\Kependudukan\\kependudukan\\formtambahpenduduk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{025A9EC4-EC20-4C2A-AC87-7A8552063C4B}|Kependudukan\\Kependudukan.csproj|solutionrelative:kependudukan\\formtambahpenduduk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025A9EC4-EC20-4C2A-AC87-7A8552063C4B}|Kependudukan\\Kependudukan.csproj|d:\\latihan1_pbo\\kependudukan\\kependudukan\\formanggotak.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{025A9EC4-EC20-4C2A-AC87-7A8552063C4B}|Kependudukan\\Kependudukan.csproj|solutionrelative:kependudukan\\formanggotak.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025A9EC4-EC20-4C2A-AC87-7A8552063C4B}|Kependudukan\\Kependudukan.csproj|d:\\latihan1_pbo\\kependudukan\\kependudukan\\class\\anggotakeluarga_cls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{025A9EC4-EC20-4C2A-AC87-7A8552063C4B}|Kependudukan\\Kependudukan.csproj|solutionrelative:kependudukan\\class\\anggotakeluarga_cls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{025A9EC4-EC20-4C2A-AC87-7A8552063C4B}|Kependudukan\\Kependudukan.csproj|D:\\latihan1_pbo\\Kependudukan\\kependudukan\\datapenduduk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,6 +37,82 @@
     {
       "AbsoluteMoniker": "D:0:0:{025A9EC4-EC20-4C2A-AC87-7A8552063C4B}|Kependudukan\\Kependudukan.csproj|D:\\latihan1_pbo\\Kependudukan\\kependudukan\\datapenduduk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{025A9EC4-EC20-4C2A-AC87-7A8552063C4B}|Kependudukan\\Kependudukan.csproj|solutionrelative:kependudukan\\datapenduduk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025A9EC4-EC20-4C2A-AC87-7A8552063C4B}|Kependudukan\\Kependudukan.csproj|d:\\latihan1_pbo\\kependudukan\\kependudukan\\class\\kabupaten_cls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{025A9EC4-EC20-4C2A-AC87-7A8552063C4B}|Kependudukan\\Kependudukan.csproj|solutionrelative:kependudukan\\class\\kabupaten_cls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025A9EC4-EC20-4C2A-AC87-7A8552063C4B}|Kependudukan\\Kependudukan.csproj|D:\\latihan1_pbo\\Kependudukan\\kependudukan\\formtambahpenduduk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{025A9EC4-EC20-4C2A-AC87-7A8552063C4B}|Kependudukan\\Kependudukan.csproj|solutionrelative:kependudukan\\formtambahpenduduk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025A9EC4-EC20-4C2A-AC87-7A8552063C4B}|Kependudukan\\Kependudukan.csproj|D:\\latihan1_pbo\\Kependudukan\\kependudukan\\datapenduduk.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{025A9EC4-EC20-4C2A-AC87-7A8552063C4B}|Kependudukan\\Kependudukan.csproj|solutionrelative:kependudukan\\datapenduduk.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025A9EC4-EC20-4C2A-AC87-7A8552063C4B}|Kependudukan\\Kependudukan.csproj|d:\\latihan1_pbo\\kependudukan\\kependudukan\\kecamatan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{025A9EC4-EC20-4C2A-AC87-7A8552063C4B}|Kependudukan\\Kependudukan.csproj|solutionrelative:kependudukan\\kecamatan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025A9EC4-EC20-4C2A-AC87-7A8552063C4B}|Kependudukan\\Kependudukan.csproj|d:\\latihan1_pbo\\kependudukan\\kependudukan\\kecamatan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{025A9EC4-EC20-4C2A-AC87-7A8552063C4B}|Kependudukan\\Kependudukan.csproj|solutionrelative:kependudukan\\kecamatan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025A9EC4-EC20-4C2A-AC87-7A8552063C4B}|Kependudukan\\Kependudukan.csproj|d:\\latihan1_pbo\\kependudukan\\kependudukan\\kelurahan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{025A9EC4-EC20-4C2A-AC87-7A8552063C4B}|Kependudukan\\Kependudukan.csproj|solutionrelative:kependudukan\\kelurahan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025A9EC4-EC20-4C2A-AC87-7A8552063C4B}|Kependudukan\\Kependudukan.csproj|d:\\latihan1_pbo\\kependudukan\\kependudukan\\kelurahan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{025A9EC4-EC20-4C2A-AC87-7A8552063C4B}|Kependudukan\\Kependudukan.csproj|solutionrelative:kependudukan\\kelurahan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025A9EC4-EC20-4C2A-AC87-7A8552063C4B}|Kependudukan\\Kependudukan.csproj|d:\\latihan1_pbo\\kependudukan\\kependudukan\\class\\kecamatan_cls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{025A9EC4-EC20-4C2A-AC87-7A8552063C4B}|Kependudukan\\Kependudukan.csproj|solutionrelative:kependudukan\\class\\kecamatan_cls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025A9EC4-EC20-4C2A-AC87-7A8552063C4B}|Kependudukan\\Kependudukan.csproj|d:\\latihan1_pbo\\kependudukan\\kependudukan\\class\\kelurahan_class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{025A9EC4-EC20-4C2A-AC87-7A8552063C4B}|Kependudukan\\Kependudukan.csproj|solutionrelative:kependudukan\\class\\kelurahan_class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025A9EC4-EC20-4C2A-AC87-7A8552063C4B}|Kependudukan\\Kependudukan.csproj|D:\\latihan1_pbo\\Kependudukan\\kependudukan\\login_frm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{025A9EC4-EC20-4C2A-AC87-7A8552063C4B}|Kependudukan\\Kependudukan.csproj|solutionrelative:kependudukan\\login_frm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025A9EC4-EC20-4C2A-AC87-7A8552063C4B}|Kependudukan\\Kependudukan.csproj|D:\\latihan1_pbo\\Kependudukan\\kependudukan\\login_frm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{025A9EC4-EC20-4C2A-AC87-7A8552063C4B}|Kependudukan\\Kependudukan.csproj|solutionrelative:kependudukan\\login_frm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025A9EC4-EC20-4C2A-AC87-7A8552063C4B}|Kependudukan\\Kependudukan.csproj|d:\\latihan1_pbo\\kependudukan\\kependudukan\\config\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{025A9EC4-EC20-4C2A-AC87-7A8552063C4B}|Kependudukan\\Kependudukan.csproj|solutionrelative:kependudukan\\config\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025A9EC4-EC20-4C2A-AC87-7A8552063C4B}|Kependudukan\\Kependudukan.csproj|d:\\latihan1_pbo\\kependudukan\\kependudukan\\formeditpenduduk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{025A9EC4-EC20-4C2A-AC87-7A8552063C4B}|Kependudukan\\Kependudukan.csproj|solutionrelative:kependudukan\\formeditpenduduk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025A9EC4-EC20-4C2A-AC87-7A8552063C4B}|Kependudukan\\Kependudukan.csproj|D:\\latihan1_pbo\\Kependudukan\\kependudukan\\formeditpenduduk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{025A9EC4-EC20-4C2A-AC87-7A8552063C4B}|Kependudukan\\Kependudukan.csproj|solutionrelative:kependudukan\\formeditpenduduk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025A9EC4-EC20-4C2A-AC87-7A8552063C4B}|Kependudukan\\Kependudukan.csproj|D:\\latihan1_pbo\\Kependudukan\\kependudukan\\login_frm.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{025A9EC4-EC20-4C2A-AC87-7A8552063C4B}|Kependudukan\\Kependudukan.csproj|solutionrelative:kependudukan\\login_frm.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025A9EC4-EC20-4C2A-AC87-7A8552063C4B}|Kependudukan\\Kependudukan.csproj|D:\\latihan1_pbo\\Kependudukan\\kependudukan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{025A9EC4-EC20-4C2A-AC87-7A8552063C4B}|Kependudukan\\Kependudukan.csproj|solutionrelative:kependudukan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025A9EC4-EC20-4C2A-AC87-7A8552063C4B}|Kependudukan\\Kependudukan.csproj|D:\\latihan1_pbo\\Kependudukan\\kependudukan\\class\\login_cls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{025A9EC4-EC20-4C2A-AC87-7A8552063C4B}|Kependudukan\\Kependudukan.csproj|solutionrelative:kependudukan\\class\\login_cls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025A9EC4-EC20-4C2A-AC87-7A8552063C4B}|Kependudukan\\Kependudukan.csproj|D:\\latihan1_pbo\\Kependudukan\\kependudukan\\formeditpenduduk.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{025A9EC4-EC20-4C2A-AC87-7A8552063C4B}|Kependudukan\\Kependudukan.csproj|solutionrelative:kependudukan\\formeditpenduduk.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025A9EC4-EC20-4C2A-AC87-7A8552063C4B}|Kependudukan\\Kependudukan.csproj|D:\\latihan1_pbo\\Kependudukan\\kependudukan\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{025A9EC4-EC20-4C2A-AC87-7A8552063C4B}|Kependudukan\\Kependudukan.csproj|solutionrelative:kependudukan\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{025A9EC4-EC20-4C2A-AC87-7A8552063C4B}|Kependudukan\\Kependudukan.csproj|D:\\latihan1_pbo\\Kependudukan\\kependudukan\\formhapuspenduduk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,28 +127,8 @@
       "RelativeMoniker": "D:0:0:{025A9EC4-EC20-4C2A-AC87-7A8552063C4B}|Kependudukan\\Kependudukan.csproj|solutionrelative:kependudukan\\formtambahpenduduk.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{025A9EC4-EC20-4C2A-AC87-7A8552063C4B}|Kependudukan\\Kependudukan.csproj|d:\\latihan1_pbo\\kependudukan\\kependudukan\\formtambahpenduduk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{025A9EC4-EC20-4C2A-AC87-7A8552063C4B}|Kependudukan\\Kependudukan.csproj|solutionrelative:kependudukan\\formtambahpenduduk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{025A9EC4-EC20-4C2A-AC87-7A8552063C4B}|Kependudukan\\Kependudukan.csproj|D:\\latihan1_pbo\\Kependudukan\\kependudukan\\datapenduduk.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{025A9EC4-EC20-4C2A-AC87-7A8552063C4B}|Kependudukan\\Kependudukan.csproj|solutionrelative:kependudukan\\datapenduduk.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{025A9EC4-EC20-4C2A-AC87-7A8552063C4B}|Kependudukan\\Kependudukan.csproj|D:\\latihan1_pbo\\Kependudukan\\kependudukan\\formtambahpenduduk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{025A9EC4-EC20-4C2A-AC87-7A8552063C4B}|Kependudukan\\Kependudukan.csproj|solutionrelative:kependudukan\\formtambahpenduduk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{025A9EC4-EC20-4C2A-AC87-7A8552063C4B}|Kependudukan\\Kependudukan.csproj|D:\\latihan1_pbo\\Kependudukan\\kependudukan\\config\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{025A9EC4-EC20-4C2A-AC87-7A8552063C4B}|Kependudukan\\Kependudukan.csproj|solutionrelative:kependudukan\\config\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{025A9EC4-EC20-4C2A-AC87-7A8552063C4B}|Kependudukan\\Kependudukan.csproj|D:\\latihan1_pbo\\Kependudukan\\kependudukan\\formhapuspenduduk.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{025A9EC4-EC20-4C2A-AC87-7A8552063C4B}|Kependudukan\\Kependudukan.csproj|solutionrelative:kependudukan\\formhapuspenduduk.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{025A9EC4-EC20-4C2A-AC87-7A8552063C4B}|Kependudukan\\Kependudukan.csproj|D:\\latihan1_pbo\\Kependudukan\\kependudukan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{025A9EC4-EC20-4C2A-AC87-7A8552063C4B}|Kependudukan\\Kependudukan.csproj|solutionrelative:kependudukan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,62 +138,86 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FormEditPenduduk.Designer.cs",
-              "DocumentMoniker": "D:\\latihan1_pbo\\Kependudukan\\Kependudukan\\FormEditPenduduk.Designer.cs",
-              "RelativeDocumentMoniker": "Kependudukan\\FormEditPenduduk.Designer.cs",
-              "ToolTip": "D:\\latihan1_pbo\\Kependudukan\\Kependudukan\\FormEditPenduduk.Designer.cs",
-              "RelativeToolTip": "Kependudukan\\FormEditPenduduk.Designer.cs",
-              "ViewState": "AgIAAP8AAAAAAAAAAAAowAsBAABQAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "FormAnggotaK.cs",
+              "DocumentMoniker": "D:\\latihan1_pbo\\Kependudukan\\Kependudukan\\FormAnggotaK.cs",
+              "RelativeDocumentMoniker": "Kependudukan\\FormAnggotaK.cs",
+              "ToolTip": "D:\\latihan1_pbo\\Kependudukan\\Kependudukan\\FormAnggotaK.cs",
+              "RelativeToolTip": "Kependudukan\\FormAnggotaK.cs",
+              "ViewState": "AgIAAAQBAAAAAAAAAAAkwCQBAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T01:04:42.759Z",
+              "WhenOpened": "2025-05-16T02:20:17.749Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FormEditPenduduk.cs [Design]",
-              "DocumentMoniker": "D:\\latihan1_pbo\\Kependudukan\\Kependudukan\\FormEditPenduduk.cs",
-              "RelativeDocumentMoniker": "Kependudukan\\FormEditPenduduk.cs",
-              "ToolTip": "D:\\latihan1_pbo\\Kependudukan\\Kependudukan\\FormEditPenduduk.cs [Design]",
-              "RelativeToolTip": "Kependudukan\\FormEditPenduduk.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T00:33:23.453Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FormEditPenduduk.cs",
-              "DocumentMoniker": "D:\\latihan1_pbo\\Kependudukan\\Kependudukan\\FormEditPenduduk.cs",
-              "RelativeDocumentMoniker": "Kependudukan\\FormEditPenduduk.cs",
-              "ToolTip": "D:\\latihan1_pbo\\Kependudukan\\Kependudukan\\FormEditPenduduk.cs",
-              "RelativeToolTip": "Kependudukan\\FormEditPenduduk.cs",
-              "ViewState": "AgIAAGcAAAAAAAAAAAAcwL4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T00:33:44.498Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "DataPenduduk.cs",
               "DocumentMoniker": "D:\\latihan1_pbo\\Kependudukan\\Kependudukan\\DataPenduduk.cs",
               "RelativeDocumentMoniker": "Kependudukan\\DataPenduduk.cs",
               "ToolTip": "D:\\latihan1_pbo\\Kependudukan\\Kependudukan\\DataPenduduk.cs",
               "RelativeToolTip": "Kependudukan\\DataPenduduk.cs",
-              "ViewState": "AgIAAE0AAAAAAAAAAAAAwFUAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAmwHcAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-14T03:09:34.196Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
+              "Title": "FormTambahPenduduk.cs [Design]",
+              "DocumentMoniker": "D:\\latihan1_pbo\\Kependudukan\\Kependudukan\\FormTambahPenduduk.cs",
+              "RelativeDocumentMoniker": "Kependudukan\\FormTambahPenduduk.cs",
+              "ToolTip": "D:\\latihan1_pbo\\Kependudukan\\Kependudukan\\FormTambahPenduduk.cs [Design]",
+              "RelativeToolTip": "Kependudukan\\FormTambahPenduduk.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T04:33:55.601Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Kabupaten.cs [Design]",
+              "DocumentMoniker": "D:\\latihan1_pbo\\Kependudukan\\Kependudukan\\Kabupaten.cs",
+              "RelativeDocumentMoniker": "Kependudukan\\Kabupaten.cs",
+              "ToolTip": "D:\\latihan1_pbo\\Kependudukan\\Kependudukan\\Kabupaten.cs [Design]",
+              "RelativeToolTip": "Kependudukan\\Kabupaten.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T01:11:31.565Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Kabupaten.cs",
+              "DocumentMoniker": "D:\\latihan1_pbo\\Kependudukan\\Kependudukan\\Kabupaten.cs",
+              "RelativeDocumentMoniker": "Kependudukan\\Kabupaten.cs",
+              "ToolTip": "D:\\latihan1_pbo\\Kependudukan\\Kependudukan\\Kabupaten.cs",
+              "RelativeToolTip": "Kependudukan\\Kabupaten.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAwwI8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T01:25:35.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormAnggotaK.cs [Design]",
+              "DocumentMoniker": "D:\\latihan1_pbo\\Kependudukan\\Kependudukan\\FormAnggotaK.cs",
+              "RelativeDocumentMoniker": "Kependudukan\\FormAnggotaK.cs",
+              "ToolTip": "D:\\latihan1_pbo\\Kependudukan\\Kependudukan\\FormAnggotaK.cs [Design]",
+              "RelativeToolTip": "Kependudukan\\FormAnggotaK.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T02:17:20.023Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "DataPenduduk.cs [Design]",
               "DocumentMoniker": "D:\\latihan1_pbo\\Kependudukan\\Kependudukan\\DataPenduduk.cs",
               "RelativeDocumentMoniker": "Kependudukan\\DataPenduduk.cs",
@@ -137,7 +229,260 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
+              "Title": "FormAnggotaK.Designer.cs",
+              "DocumentMoniker": "D:\\latihan1_pbo\\Kependudukan\\Kependudukan\\FormAnggotaK.Designer.cs",
+              "RelativeDocumentMoniker": "Kependudukan\\FormAnggotaK.Designer.cs",
+              "ToolTip": "D:\\latihan1_pbo\\Kependudukan\\Kependudukan\\FormAnggotaK.Designer.cs",
+              "RelativeToolTip": "Kependudukan\\FormAnggotaK.Designer.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAowIwAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T02:22:27.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AnggotaKeluarga_cls.cs",
+              "DocumentMoniker": "D:\\latihan1_pbo\\Kependudukan\\Kependudukan\\Class\\AnggotaKeluarga_cls.cs",
+              "RelativeDocumentMoniker": "Kependudukan\\Class\\AnggotaKeluarga_cls.cs",
+              "ToolTip": "D:\\latihan1_pbo\\Kependudukan\\Kependudukan\\Class\\AnggotaKeluarga_cls.cs",
+              "RelativeToolTip": "Kependudukan\\Class\\AnggotaKeluarga_cls.cs",
+              "ViewState": "AgIAAMAAAAAAAAAAAAAqwN8AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T02:15:50.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Kabupaten_cls.cs",
+              "DocumentMoniker": "D:\\latihan1_pbo\\Kependudukan\\Kependudukan\\Class\\Kabupaten_cls.cs",
+              "RelativeDocumentMoniker": "Kependudukan\\Class\\Kabupaten_cls.cs",
+              "ToolTip": "D:\\latihan1_pbo\\Kependudukan\\Kependudukan\\Class\\Kabupaten_cls.cs",
+              "RelativeToolTip": "Kependudukan\\Class\\Kabupaten_cls.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKcAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T01:10:59.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DataPenduduk.Designer.cs",
+              "DocumentMoniker": "D:\\latihan1_pbo\\Kependudukan\\Kependudukan\\DataPenduduk.Designer.cs",
+              "RelativeDocumentMoniker": "Kependudukan\\DataPenduduk.Designer.cs",
+              "ToolTip": "D:\\latihan1_pbo\\Kependudukan\\Kependudukan\\DataPenduduk.Designer.cs",
+              "RelativeToolTip": "Kependudukan\\DataPenduduk.Designer.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAkwH4AAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T03:30:56.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormTambahPenduduk.cs",
+              "DocumentMoniker": "D:\\latihan1_pbo\\Kependudukan\\Kependudukan\\FormTambahPenduduk.cs",
+              "RelativeDocumentMoniker": "Kependudukan\\FormTambahPenduduk.cs",
+              "ToolTip": "D:\\latihan1_pbo\\Kependudukan\\Kependudukan\\FormTambahPenduduk.cs",
+              "RelativeToolTip": "Kependudukan\\FormTambahPenduduk.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAowF0AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T04:34:12.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Kecamatan.cs",
+              "DocumentMoniker": "D:\\latihan1_pbo\\Kependudukan\\Kependudukan\\Kecamatan.cs",
+              "RelativeDocumentMoniker": "Kependudukan\\Kecamatan.cs",
+              "ToolTip": "D:\\latihan1_pbo\\Kependudukan\\Kependudukan\\Kecamatan.cs",
+              "RelativeToolTip": "Kependudukan\\Kecamatan.cs",
+              "ViewState": "AgIAAJMAAAAAAAAAAADgv50AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T01:03:18.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Kecamatan.cs [Design]",
+              "DocumentMoniker": "D:\\latihan1_pbo\\Kependudukan\\Kependudukan\\Kecamatan.cs",
+              "RelativeDocumentMoniker": "Kependudukan\\Kecamatan.cs",
+              "ToolTip": "D:\\latihan1_pbo\\Kependudukan\\Kependudukan\\Kecamatan.cs [Design]",
+              "RelativeToolTip": "Kependudukan\\Kecamatan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T00:59:16.174Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Kelurahan.cs [Design]",
+              "DocumentMoniker": "D:\\latihan1_pbo\\Kependudukan\\Kependudukan\\Kelurahan.cs",
+              "RelativeDocumentMoniker": "Kependudukan\\Kelurahan.cs",
+              "ToolTip": "D:\\latihan1_pbo\\Kependudukan\\Kependudukan\\Kelurahan.cs [Design]",
+              "RelativeToolTip": "Kependudukan\\Kelurahan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T00:33:37.193Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Kelurahan.cs",
+              "DocumentMoniker": "D:\\latihan1_pbo\\Kependudukan\\Kependudukan\\Kelurahan.cs",
+              "RelativeDocumentMoniker": "Kependudukan\\Kelurahan.cs",
+              "ToolTip": "D:\\latihan1_pbo\\Kependudukan\\Kependudukan\\Kelurahan.cs",
+              "RelativeToolTip": "Kependudukan\\Kelurahan.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T00:34:35.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Kecamatan_cls.cs",
+              "DocumentMoniker": "D:\\latihan1_pbo\\Kependudukan\\Kependudukan\\Class\\Kecamatan_cls.cs",
+              "RelativeDocumentMoniker": "Kependudukan\\Class\\Kecamatan_cls.cs",
+              "ToolTip": "D:\\latihan1_pbo\\Kependudukan\\Kependudukan\\Class\\Kecamatan_cls.cs",
+              "RelativeToolTip": "Kependudukan\\Class\\Kecamatan_cls.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAcwKcAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T00:59:23.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Kelurahan_class.cs",
+              "DocumentMoniker": "D:\\latihan1_pbo\\Kependudukan\\Kependudukan\\Class\\Kelurahan_class.cs",
+              "RelativeDocumentMoniker": "Kependudukan\\Class\\Kelurahan_class.cs",
+              "ToolTip": "D:\\latihan1_pbo\\Kependudukan\\Kependudukan\\Class\\Kelurahan_class.cs",
+              "RelativeToolTip": "Kependudukan\\Class\\Kelurahan_class.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T00:15:53.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Login_frm.cs",
+              "DocumentMoniker": "D:\\latihan1_pbo\\Kependudukan\\Kependudukan\\Login_frm.cs",
+              "RelativeDocumentMoniker": "Kependudukan\\Login_frm.cs",
+              "ToolTip": "D:\\latihan1_pbo\\Kependudukan\\Kependudukan\\Login_frm.cs",
+              "RelativeToolTip": "Kependudukan\\Login_frm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T02:44:57.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Login_frm.cs [Design]",
+              "DocumentMoniker": "D:\\latihan1_pbo\\Kependudukan\\Kependudukan\\Login_frm.cs",
+              "RelativeDocumentMoniker": "Kependudukan\\Login_frm.cs",
+              "ToolTip": "D:\\latihan1_pbo\\Kependudukan\\Kependudukan\\Login_frm.cs [Design]",
+              "RelativeToolTip": "Kependudukan\\Login_frm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T02:44:54.871Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Database.cs",
+              "DocumentMoniker": "D:\\latihan1_pbo\\Kependudukan\\Kependudukan\\Config\\Database.cs",
+              "RelativeDocumentMoniker": "Kependudukan\\Config\\Database.cs",
+              "ToolTip": "D:\\latihan1_pbo\\Kependudukan\\Kependudukan\\Config\\Database.cs",
+              "RelativeToolTip": "Kependudukan\\Config\\Database.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAADwvzEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T00:20:27.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FormEditPenduduk.cs [Design]",
+              "DocumentMoniker": "D:\\latihan1_pbo\\Kependudukan\\Kependudukan\\FormEditPenduduk.cs",
+              "RelativeDocumentMoniker": "Kependudukan\\FormEditPenduduk.cs",
+              "ToolTip": "D:\\latihan1_pbo\\Kependudukan\\Kependudukan\\FormEditPenduduk.cs [Design]",
+              "RelativeToolTip": "Kependudukan\\FormEditPenduduk.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T00:33:23.453Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FormEditPenduduk.cs",
+              "DocumentMoniker": "D:\\latihan1_pbo\\Kependudukan\\Kependudukan\\FormEditPenduduk.cs",
+              "RelativeDocumentMoniker": "Kependudukan\\FormEditPenduduk.cs",
+              "ToolTip": "D:\\latihan1_pbo\\Kependudukan\\Kependudukan\\FormEditPenduduk.cs",
+              "RelativeToolTip": "Kependudukan\\FormEditPenduduk.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAcwDgAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T00:33:44.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Login_frm.Designer.cs",
+              "DocumentMoniker": "D:\\latihan1_pbo\\Kependudukan\\Kependudukan\\Login_frm.Designer.cs",
+              "RelativeDocumentMoniker": "Kependudukan\\Login_frm.Designer.cs",
+              "ToolTip": "D:\\latihan1_pbo\\Kependudukan\\Kependudukan\\Login_frm.Designer.cs",
+              "RelativeToolTip": "Kependudukan\\Login_frm.Designer.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAD4v4YAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T02:52:12.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\latihan1_pbo\\Kependudukan\\Kependudukan\\Program.cs",
+              "RelativeDocumentMoniker": "Kependudukan\\Program.cs",
+              "ToolTip": "D:\\latihan1_pbo\\Kependudukan\\Kependudukan\\Program.cs",
+              "RelativeToolTip": "Kependudukan\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA0wBIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T03:07:33.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Login_cls.cs",
+              "DocumentMoniker": "D:\\latihan1_pbo\\Kependudukan\\Kependudukan\\class\\Login_cls.cs",
+              "RelativeDocumentMoniker": "Kependudukan\\class\\Login_cls.cs",
+              "ToolTip": "D:\\latihan1_pbo\\Kependudukan\\Kependudukan\\class\\Login_cls.cs",
+              "RelativeToolTip": "Kependudukan\\class\\Login_cls.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T02:38:02.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FormEditPenduduk.Designer.cs",
+              "DocumentMoniker": "D:\\latihan1_pbo\\Kependudukan\\Kependudukan\\FormEditPenduduk.Designer.cs",
+              "RelativeDocumentMoniker": "Kependudukan\\FormEditPenduduk.Designer.cs",
+              "ToolTip": "D:\\latihan1_pbo\\Kependudukan\\Kependudukan\\FormEditPenduduk.Designer.cs",
+              "RelativeToolTip": "Kependudukan\\FormEditPenduduk.Designer.cs",
+              "ViewState": "AgIAAPQAAAAAAAAAAAAowA8BAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T01:04:42.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
               "Title": ".gitignore",
               "DocumentMoniker": "D:\\latihan1_pbo\\Kependudukan\\Kependudukan\\.gitignore",
               "RelativeDocumentMoniker": "Kependudukan\\.gitignore",
@@ -145,12 +490,11 @@
               "RelativeToolTip": "Kependudukan\\.gitignore",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
               "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
-              "WhenOpened": "2025-05-14T02:41:56.342Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T02:41:56.342Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 28,
               "Title": "FormHapusPenduduk.cs",
               "DocumentMoniker": "D:\\latihan1_pbo\\Kependudukan\\Kependudukan\\FormHapusPenduduk.cs",
               "RelativeDocumentMoniker": "Kependudukan\\FormHapusPenduduk.cs",
@@ -158,24 +502,22 @@
               "RelativeToolTip": "Kependudukan\\FormHapusPenduduk.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T06:48:40.052Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T06:48:40.052Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 29,
               "Title": "FormHapusPenduduk.cs [Design]",
               "DocumentMoniker": "D:\\latihan1_pbo\\Kependudukan\\Kependudukan\\FormHapusPenduduk.cs",
               "RelativeDocumentMoniker": "Kependudukan\\FormHapusPenduduk.cs",
               "ToolTip": "D:\\latihan1_pbo\\Kependudukan\\Kependudukan\\FormHapusPenduduk.cs [Design]",
               "RelativeToolTip": "Kependudukan\\FormHapusPenduduk.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T06:47:57.951Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-05-14T06:47:57.951Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 30,
               "Title": "FormTambahPenduduk.Designer.cs",
               "DocumentMoniker": "D:\\latihan1_pbo\\Kependudukan\\Kependudukan\\FormTambahPenduduk.Designer.cs",
               "RelativeDocumentMoniker": "Kependudukan\\FormTambahPenduduk.Designer.cs",
@@ -188,57 +530,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "FormTambahPenduduk.cs",
-              "DocumentMoniker": "D:\\latihan1_pbo\\Kependudukan\\Kependudukan\\FormTambahPenduduk.cs",
-              "RelativeDocumentMoniker": "Kependudukan\\FormTambahPenduduk.cs",
-              "ToolTip": "D:\\latihan1_pbo\\Kependudukan\\Kependudukan\\FormTambahPenduduk.cs",
-              "RelativeToolTip": "Kependudukan\\FormTambahPenduduk.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAnwEsAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T04:34:12.171Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Database.cs",
-              "DocumentMoniker": "D:\\latihan1_pbo\\Kependudukan\\Kependudukan\\Config\\Database.cs",
-              "RelativeDocumentMoniker": "Kependudukan\\Config\\Database.cs",
-              "ToolTip": "D:\\latihan1_pbo\\Kependudukan\\Kependudukan\\Config\\Database.cs",
-              "RelativeToolTip": "Kependudukan\\Config\\Database.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAwwBwAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T03:02:25.288Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "FormTambahPenduduk.cs [Design]",
-              "DocumentMoniker": "D:\\latihan1_pbo\\Kependudukan\\Kependudukan\\FormTambahPenduduk.cs",
-              "RelativeDocumentMoniker": "Kependudukan\\FormTambahPenduduk.cs",
-              "ToolTip": "D:\\latihan1_pbo\\Kependudukan\\Kependudukan\\FormTambahPenduduk.cs [Design]",
-              "RelativeToolTip": "Kependudukan\\FormTambahPenduduk.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T04:33:55.601Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "DataPenduduk.Designer.cs",
-              "DocumentMoniker": "D:\\latihan1_pbo\\Kependudukan\\Kependudukan\\DataPenduduk.Designer.cs",
-              "RelativeDocumentMoniker": "Kependudukan\\DataPenduduk.Designer.cs",
-              "ToolTip": "D:\\latihan1_pbo\\Kependudukan\\Kependudukan\\DataPenduduk.Designer.cs",
-              "RelativeToolTip": "Kependudukan\\DataPenduduk.Designer.cs",
-              "ViewState": "AgIAAFQAAAAAAAAAAAAnwFgAAABOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T03:30:56.398Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 31,
               "Title": "FormHapusPenduduk.Designer.cs",
               "DocumentMoniker": "D:\\latihan1_pbo\\Kependudukan\\Kependudukan\\FormHapusPenduduk.Designer.cs",
               "RelativeDocumentMoniker": "Kependudukan\\FormHapusPenduduk.Designer.cs",
@@ -246,20 +538,7 @@
               "RelativeToolTip": "Kependudukan\\FormHapusPenduduk.Designer.cs",
               "ViewState": "AgIAAEQAAAAAAAAAAAD4v1UAAABQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T06:48:55.537Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\latihan1_pbo\\Kependudukan\\Kependudukan\\Program.cs",
-              "RelativeDocumentMoniker": "Kependudukan\\Program.cs",
-              "ToolTip": "D:\\latihan1_pbo\\Kependudukan\\Kependudukan\\Program.cs",
-              "RelativeToolTip": "Kependudukan\\Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T03:07:33.244Z"
+              "WhenOpened": "2025-05-14T06:48:55.537Z"
             }
           ]
         }

@@ -33,7 +33,7 @@ namespace Kependudukan
             try
             {
                 db.OpenConnection();
-                string query = "SELECT NIK, Nama, TanggalLahir, JenisKelamin, IdKelurahan, pekerjaan, status, agama FROM Penduduk";
+                string query = "SELECT NIK, Nama, TanggalLahir, JenisKelamin, IdKelurahan, pekerjaan, status, agama, IdKecamatan, IdKabupaten FROM Penduduk";
                 MySqlCommand cmd = new MySqlCommand(query, db.GetConnection());
                 MySqlDataAdapter adapter = new MySqlDataAdapter(cmd);
                 System.Data.DataTable dt = new System.Data.DataTable();
@@ -85,6 +85,45 @@ namespace Kependudukan
         {
             FormEditPenduduk formEdit = new FormEditPenduduk(this); // Pass this ke form edit
             formEdit.ShowDialog();
+        }
+
+        private void btnLogout_Click(object sender, EventArgs e)
+        {
+            DialogResult result = MessageBox.Show("Yakin mau keluar?", "Konfirmasi Keluar", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+            if (result == DialogResult.Yes)
+            {
+                this.Close(); // Tutup form
+                              // Kembali ke form login
+                Login_frm formLogin = new Login_frm();
+                formLogin.Show();
+
+            }
+        }
+
+        private void btnKelurahan_Click(object sender, EventArgs e)
+        {
+            // Buka form kelurahan
+            Kelurahan formKelurahan = new Kelurahan();
+            formKelurahan.Show();
+        }
+
+        private void btnKecamatan_Click(object sender, EventArgs e)
+        {
+            // Buka form kelurahan
+            Kecamatan formKecamatan = new Kecamatan();
+            formKecamatan.Show();
+        }
+
+        private void btnKabupaten_Click(object sender, EventArgs e)
+        {
+            Kabupaten formKabupaten = new Kabupaten();
+            formKabupaten.Show();
+        }
+
+        private void btnAnggota_Click(object sender, EventArgs e)
+        {
+            FormAnggotaK formAnggota = new FormAnggotaK();
+            formAnggota.Show();
         }
     }
 }

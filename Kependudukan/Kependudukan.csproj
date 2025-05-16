@@ -95,12 +95,23 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Class\AnggotaKeluarga_cls.cs" />
+    <Compile Include="Class\Kabupaten_cls.cs" />
+    <Compile Include="Class\Kecamatan_cls.cs" />
+    <Compile Include="Class\Kelurahan_class.cs" />
+    <Compile Include="Class\Login_cls.cs" />
     <Compile Include="Config\Database.cs" />
     <Compile Include="DataPenduduk.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="DataPenduduk.Designer.cs">
       <DependentUpon>DataPenduduk.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAnggotaK.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAnggotaK.Designer.cs">
+      <DependentUpon>FormAnggotaK.cs</DependentUpon>
     </Compile>
     <Compile Include="FormEditPenduduk.cs">
       <SubType>Form</SubType>
@@ -120,10 +131,37 @@
     <Compile Include="FormTambahPenduduk.Designer.cs">
       <DependentUpon>FormTambahPenduduk.cs</DependentUpon>
     </Compile>
+    <Compile Include="Kabupaten.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kabupaten.Designer.cs">
+      <DependentUpon>Kabupaten.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kecamatan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kecamatan.Designer.cs">
+      <DependentUpon>Kecamatan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kelurahan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kelurahan.Designer.cs">
+      <DependentUpon>Kelurahan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login_frm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login_frm.Designer.cs">
+      <DependentUpon>Login_frm.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="DataPenduduk.resx">
       <DependentUpon>DataPenduduk.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAnggotaK.resx">
+      <DependentUpon>FormAnggotaK.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FormEditPenduduk.resx">
       <DependentUpon>FormEditPenduduk.cs</DependentUpon>
@@ -133,6 +171,18 @@
     </EmbeddedResource>
     <EmbeddedResource Include="FormTambahPenduduk.resx">
       <DependentUpon>FormTambahPenduduk.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kabupaten.resx">
+      <DependentUpon>Kabupaten.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kecamatan.resx">
+      <DependentUpon>Kecamatan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kelurahan.resx">
+      <DependentUpon>Kelurahan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login_frm.resx">
+      <DependentUpon>Login_frm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
